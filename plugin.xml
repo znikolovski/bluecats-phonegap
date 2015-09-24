@@ -9,6 +9,10 @@
 	</engines>
 
 	<name>BlueCats BLE API</name>
+    
+    <description>
+        A plugin by BlueCats to add PhoneGap support to their beacons range.
+    </description>
 
 	<dependency id="org.apache.cordova.android-support-library" url="https://github.com/savs/android-support-library" /> 
 
